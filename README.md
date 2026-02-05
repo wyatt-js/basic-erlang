@@ -16,6 +16,7 @@ Once this all works, write these two Erlang programs:
 
 
 Write an Erlang program that will take one number as input (you will get the number from the user typing it at the keyboard) and then do this computation:
+
     a) if the input is not an integer, print "not an integer"
 
     b) if the input integer is negative (smaller than 0), compute
