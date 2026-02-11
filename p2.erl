@@ -10,8 +10,7 @@ run() ->
             run();
 
         Input == 0 ->
-            p1:zero(),
-            run();
+            p1:zero();
 
         Input < 0 ->
             p1:abs_raised(Input),
