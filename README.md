@@ -1,5 +1,7 @@
 # Wyatt Smith & Longiy Tsin
 
+## Enter with p2:run().
+
 ### Assignment Directions
 
 In this assignment we will get Erlang running on your computers, and then write two simple Erlang programs. The goal is to get familiar with Erlang syntax and with the Erlang functional programming style.
